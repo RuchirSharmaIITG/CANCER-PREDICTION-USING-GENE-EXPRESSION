@@ -27,7 +27,6 @@ The approach performed well, with F1-scores of 1.00 (public) and 0.991 (private)
 
 - Missing value handling and normalization
 - Top 300 features selected using Mutual Information
-- Two models used: **Logistic Regression (LR)** and **Random Forest (RF)**
 - Visualizations: MI scores, ROC curves, confusion matrices
 - Evaluation: accuracy, F1-score, precision, recall
 - Predictions on 401 test samples with submission-ready output
