@@ -72,4 +72,4 @@ The approach performed well, with F1-scores of 1.00 (public) and 0.991 (private)
 
 ## 📬 Contact
 
-- 🔗 [Linkedn Profile](https://www.linkedin.com/in/ruchir-sharma-243a10337) 
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ruchir-sharma-243a10337) 
