@@ -57,7 +57,7 @@ The approach performed well, with F1-scores of 1.00 (public) and 0.991 (private)
 ## 📁 Project Structure
 
 ```bash
-├── DATASET/                                       # Includes raw dataset files
+├── DATASET                                        # Includes raw dataset files
 │   ├── sample_submission.csv
 │   ├── test.csv
 │   ├── train.csv
